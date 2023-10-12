@@ -1,1 +1,1 @@
-# Git-Traning
+# Branching and versioning
